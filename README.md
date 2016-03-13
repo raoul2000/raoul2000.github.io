@@ -26,3 +26,17 @@ hexo deploy
 This command creates folder `.deploy_git` which contains a copy of the *public* files that were pushed to master branch.
 
 ## Save source
+
+Before pushing changes to the *hexo-source* branch, make sure that new post are committed !
+
+```
+git status
+git add source/**
+git commit -a -m "commit message"
+```
+
+Finally push to origin :
+
+```
+ git push origin hexo-source
+```
