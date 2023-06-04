@@ -1,0 +1,5 @@
+baseURL: "https://raoul2000.github.io/"
+languageCode: "fr-fr"
+title: "Raoul2000"
+theme: "PaperMod"
+defaultContentLanguage: fr
