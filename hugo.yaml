@@ -1,0 +1,22 @@
+baseURL: "http://example.org/"
+languageCode: "fr-fr"
+title: "Raoul2000"
+theme: "PaperMod" 
+defaultContentLanguage: fr
+languages:
+  fr:
+    params:
+      linkedin: https://linkedin.com/fr/whoever
+      navigation:
+        help: Aide
+    weight: 1
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 2
+params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
