@@ -7,6 +7,7 @@ cover:
     alt: "kitty alt"
     caption: "un joli chaton"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
+    hidden: true
 ---
 
 Hello
