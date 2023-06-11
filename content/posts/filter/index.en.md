@@ -1,7 +1,7 @@
 ---
 title: "filter"
-date: 2023-06-03T12:37:31+02:00
-draft: true
+date: 2023-06-11T12:28:31+02:00
+draft: false
 ---
 
 ![filter](./images/filter.gif)
