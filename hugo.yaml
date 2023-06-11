@@ -13,7 +13,6 @@ languages:
   en:
     params:
       linkedin: https://linkedin.com/whoever
-    title: My blog
     weight: 2
 params:
   ShowReadingTime: true

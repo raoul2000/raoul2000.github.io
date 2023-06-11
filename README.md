@@ -1,1 +1,1 @@
-# test-hugo
+This is the source repo for https://raoul2000.github.io pages.
