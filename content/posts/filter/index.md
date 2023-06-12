@@ -2,6 +2,10 @@
 title: "filter"
 date: 2023-06-11T12:28:31+02:00
 draft: false
+cover:
+    image: "images/cover.png"
+    alt: "filter"
+    hidden: true
 ---
 
 ![filter](./images/filter.gif)
