@@ -6,6 +6,9 @@ cover:
     image: "images/cover.png"
     alt: "filter"
     hidden: true
+tags:
+  - clojure    
+  - animation      
 ---
 
 ![filter](./images/filter.gif)
