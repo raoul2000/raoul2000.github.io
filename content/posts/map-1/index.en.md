@@ -1,11 +1,14 @@
 ---
 title: "map"
-date: 2023-06-14T18:56:30+02:00
-draft: true
+date: 2023-06-18T18:56:30+02:00
+draft: false
 cover:
     image: "images/map-1-cover.png"
     alt: "map"
     hidden: true
+tags:
+  - clojure
+  - animation
 ---
 
 ![filter](./images/map-1.gif)
