@@ -17,7 +17,7 @@ tags:
 (map f coll)
 ```
 
-in this animation, the function `map` takes 2 arguments:
+In this animation, the function `map` takes 2 arguments:
 - `f`: a function that take one argument and returns one value
 - `coll`: a *collection* of items
 
