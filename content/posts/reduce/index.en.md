@@ -1,7 +1,7 @@
 ---
 title: "reduce"
 date: 2023-07-01T13:17:43+02:00
-draft: true
+draft: false
 cover:
     image: "images/cover.png"
     alt: "map"
