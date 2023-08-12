@@ -22,7 +22,7 @@ La fonction `filter` accepte 2 arguments :
 
 `filter` retourne une séquence composée de tous les éléments de la *collection* pour lesquels *f* renvoie VRAI.
 
-> Dans l'animation ci-dessus, *f* renvoie VRAI lorsque l'élément est un cercle ou lorsqu'il est de couleur orange.
+> Dans l'animation ci-dessus, *f* renvoie VRAI lorsque l'élément est un triangle ou lorsqu'il est de couleur bleu.
 
 [filter](https://clojuredocs.org/clojure.core/filter)
 
