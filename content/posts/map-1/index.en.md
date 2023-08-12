@@ -18,7 +18,7 @@ tags:
 ```
 
 In this animation, the function `map` takes 2 arguments:
-- `f`: a function that take one argument and returns one value
+- `f`: a function that takes one argument and returns a value
 - `coll`: a *collection* of items
 
 `map` returns a new list made of the result of *f* applied to each item from the *collection*. Consequently the list returned by `map` always contains the same number of items than the *collection* passed as argument.

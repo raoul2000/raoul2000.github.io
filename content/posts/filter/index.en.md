@@ -22,7 +22,7 @@ The `filter`  function takes 2 arguments :
 
 `filter` returns a sequence of items from the *collection* for which *f* returns TRUE
 
-> In the above animation, *f* returns TRUE when the item is a circle or when it is orange.
+> In the above animation, *f* returns TRUE when the item is a triangle or when it is blue.
 
 [filter](https://clojuredocs.org/clojure.core/filter)
 
