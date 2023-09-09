@@ -13,7 +13,7 @@ tags:
 
 ![filter](./images/map-1.gif)
 
-```
+```clojure
 (map f coll)
 ```
 

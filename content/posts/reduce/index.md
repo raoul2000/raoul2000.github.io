@@ -13,7 +13,7 @@ tags:
 
 ![reduce](./images/reduce.gif)
 
-```
+```clojure
 (reduce f val coll)
 ```
 
