@@ -14,11 +14,11 @@ tags:
 
 ![remove](./images/remove.gif)
 
-```
+```clojure
 (remove f coll)
 ```
 La fonction `remove` accepte 2 arguments : 
-- `f`: une fonction qui prend un argument *x* et qui renvoie VRAI ou FAUX [^1] .
+- `f`: une fonction qui prend un argument *x* et qui renvoie VRAI ou FAUX
 - `coll`: une *collection* d'éléments
 
 `remove` retourne une séquence composée de tous les éléments de la *collection* pour lesquels *f* renvoie FAUX (c'est l'*inverse* de [filter](/posts/filter)).

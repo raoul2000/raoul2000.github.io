@@ -13,11 +13,12 @@ tags:
 
 ![filter](./images/filter.gif)
 
-```
+```clojure
 (filter f coll)
 ```
+
 The `filter`  function takes 2 arguments : 
-- `f`: a function that takes one argument *x* and returns TRUE or FALSE [^1] .
+- `f`: a function that takes one argument *x* and returns TRUE or FALSE [^1]
 - `coll`: a *collection* of items
 
 `filter` returns a sequence of items from the *collection* for which *f* returns TRUE (it's the *opposite* of [remove](/posts/remove)).
